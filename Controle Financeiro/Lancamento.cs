@@ -137,6 +137,11 @@ namespace Controle_Financeiro
 
         private void button2_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Teste");
+            MessageBox.Show("Teste");
+            fsdfsdfsdfsdfsdf
+            MessageBox.Show("Teste");
+            MessageBox.Show("Teste");
 
         }
 
