@@ -139,7 +139,7 @@ namespace Controle_Financeiro
         {
             MessageBox.Show("Teste");
             MessageBox.Show("Teste");
-            fsdfsdfsdfsdfsdf
+            MessageBox.Show("Teste"); MessageBox.Show("Teste"); MessageBox.Show("Teste"); MessageBox.Show("Teste"); MessageBox.Show("Teste"); MessageBox.Show("Teste");
             MessageBox.Show("Teste");
             MessageBox.Show("Teste");
 
